@@ -6,7 +6,7 @@ function Linear (){
             
             <ul 
                 style={{ listStyle: 'none', padding: 0 }}>
-                <li><a href="/cramer"> <h2>Cramer's Rule</h2></a></li>
+                <li><a href="/Cramer"> <h2>Cramer's Rule</h2></a></li>
                 <li><a href="/g-eli"> <h2>Guass Elimination Methods</h2></a></li>
                 <li><a href="/g-jor"> <h2>Guass Jordan Methods</h2></a></li>
                 <li><a href="/matrix-i"> <h2>Matrix inversion</h2></a></li>
